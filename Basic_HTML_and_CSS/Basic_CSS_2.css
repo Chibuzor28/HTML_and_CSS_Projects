@@ -1,0 +1,11 @@
+body{
+	font-style:italic;
+	text-align:center;
+	}
+	p{
+		color:snow;
+		font-size:medium;
+		font-style:italic;
+		background-color:blue;
+		font-weight:bolder;
+	}
