@@ -1,0 +1,34 @@
+table{
+	border: 1px solid silver:
+}
+td:hover{
+	background-color:yellow;
+	color: black;
+}
+th:hover{
+	background-color: gray;
+	color: orange;
+	font-weight:bolder;
+	
+}
+tr,th{
+	background-color:black;
+	color:cornsilk;
+}
+tr,td{
+	background-color:darkgreen;
+	color:white;
+}
+ol{
+	list-style-type: upper-roman;
+}
+ul{
+	list-style-type:block;
+}
+tr,th,td {
+	border: 1px dotted orange;
+}
+h1 {
+	text-shadow: 2px 2px 5px green;
+	text-align:center;
+}
