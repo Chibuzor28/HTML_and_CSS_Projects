@@ -1,0 +1,33 @@
+nav{
+	
+	background-color:skyblue;
+	border-radius : 5px 5px 5px 5px;
+	
+}
+li{
+	color:white;
+	font-family:Roboto;
+	font-weight:bolder
+}
+
+	
+section{background-color:lightyellow;}
+
+.imgpic{
+	background-color:lightgray;
+	text-align:centre;
+	border-width:1px;
+
+}
+body{text-align:center;
+background-color:lightyellow;
+}
+
+	
+.form1{margin-bottom:10px;}
+.form{
+	margin-bottom:1px
+	margin-left:100x;
+}
+
+	
